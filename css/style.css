@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: gold;
+}
+.morado{
+    background-color: rgb(111, 10, 131);
+    height: 10vh;
+}
+.magenta{
+    background-color: magenta;
+    height: 90vh;
+}
